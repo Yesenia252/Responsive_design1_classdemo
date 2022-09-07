@@ -1,8 +1,12 @@
+body{
+	background-color: steelblue;
+}
+
 h1{
 	color: yellow;
 }
 
 p{
 	color: darkred;
-}
+font-family: Helvica;
 }
